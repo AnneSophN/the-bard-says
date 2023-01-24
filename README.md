@@ -8,7 +8,7 @@ Start the exercise by forking and cloning the repository.
 
 The `story` branch represents a feature branch that is to be rebased.
 
-On the `haiku` branch you find a script that prints a haiku:
+On the `story` branch you'll find a script that prints a very short story:
 
 ```shell
 $ python3 main.py

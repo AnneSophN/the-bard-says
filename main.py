@@ -1,4 +1,5 @@
-s = 'nothing'
+from story import get_the_shortest_story_ever
 
-print('\nThis is a short story:\n')
-print(s)
+story = get_the_shortest_story_ever()
+
+print(story)

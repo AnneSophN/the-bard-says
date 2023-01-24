@@ -1,6 +1,6 @@
 # The bard says
 
-A repository to test **rebasing** and **conflict solution** in Git
+A repository to test **rebasing** and **conflict resolution** in Git
 
 ### Exercise
 
